@@ -21,7 +21,7 @@
 
 ## 🔭 Current Projects
 
-- [🌐 Portfolio](https://portfolio-lucas.vercel.app) – Personal portfolio built with React & Styled-components   
+- [🌐 Portfolio](https://portfolio-lucaspulgacicampos.vercel.app/) – Personal portfolio built with React & Styled-components   
 - [⚡ API with Node Js and MongoDB](https://github.com/LucasPulgaci032/node-mongo-api) 
 
 ---
